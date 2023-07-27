@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @musamehmet
+- 👋 Hi, I’m @musamehmet (Musa Mehmet GÜRBÜZ)
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning HTML, CSS, Python, JavaScript, Django, React, Redux, Bootstrap, Angular, SASS, jQuery
 - 📫 [My LinkedIn profile](https://www.linkedin.com/in/musamehmet/)
